@@ -6,12 +6,14 @@ Rastreador de despesas para gerenciar finanças. Permite que os usuários adicio
 ### Backend
 
 ```
-expense-tracker/
+easyfinance/
 │── main.go
 │── models/
 │   ├── expense.go
 │── controllers/
 │   ├── expenseController.go
+│── services/
+│   ├── expenseService.go
 │── views/
 │   ├── cliView.go
 │── database/
