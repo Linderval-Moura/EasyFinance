@@ -19,3 +19,11 @@ easyfinance/
 │── database/
 │   ├── db.go
 ```
+
+## Como Executar
+1. Baixe o código e crie a estrutura de diretórios conforme o modelo.
+2. Vá até a pasta do projeto e execute:
+```
+go run main.go
+```
+Siga as opções no menu para adicionar, atualizar e visualizar despesas.
