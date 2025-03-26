@@ -1,5 +1,5 @@
 # EasyFinance
-API para gerenciar finanças. Permite que os usuários adicionem, excluam e visualizem suas despesas. Também fornecerá um resumo das despesas.
+Microsserviço para gerenciar finanças. Permite que os usuários adicionem, excluam e visualizem suas despesas. Também fornecerá um resumo das despesas.
 
 ## Estrutura Inicial do Projeto
 
