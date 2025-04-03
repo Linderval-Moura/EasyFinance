@@ -10,6 +10,9 @@ RUN go mod tidy
 
 COPY . .
 
+# Pacote para carregar arquivo .env
+RUN go get github.com/joho/godotenv
+
 RUN go build -o easyfinance .
 
 EXPOSE 8080
