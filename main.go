@@ -2,6 +2,7 @@ package main
 
 import (
 	//	"easyfinance/database"
+	"github.com/joho/godotenv"
 	"easyfinance/routes"
 	"fmt"
 	"os"
